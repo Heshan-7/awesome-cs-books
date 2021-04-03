@@ -50,3 +50,14 @@ JackCui 机器学习实战笔记 [百度网盘链接](https://pan.baidu.com/s/11
 
 MIT 的老教授 Gilbert Strang 的线性代数视频 [百度网盘链接](https://pan.baidu.com/s/1WktC95HL2GF0PKa311L5SQ) 提取码：jack
 
+C++远征之起航篇：https://www.imooc.com/learn/342
+C++远征之离港篇：https://www.imooc.com/learn/381
+C++远征之封装篇（上）：https://www.imooc.com/learn/382
+C++远征之封装篇（下）：https://www.imooc.com/learn/405
+C++远征之继承篇：https://www.imooc.com/learn/426
+C++远征之多态篇：https://www.imooc.com/learn/474
+C++远征之模板篇：https://www.imooc.com/learn/477
+更多教程，关注我的公众号，微信公众号搜索：jackcui-ai ，即可订阅。
+https://cuijiahua.com/
+
+
