@@ -51,31 +51,49 @@ JackCui 机器学习实战笔记 [百度网盘链接](https://pan.baidu.com/s/11
 MIT 的老教授 Gilbert Strang 的线性代数视频 [百度网盘链接](https://pan.baidu.com/s/1WktC95HL2GF0PKa311L5SQ) 提取码：jack
 
 C++远征之起航篇：https://www.imooc.com/learn/342
+
 C++远征之离港篇：https://www.imooc.com/learn/381
+
 C++远征之封装篇（上）：https://www.imooc.com/learn/382
+
 C++远征之封装篇（下）：https://www.imooc.com/learn/405
+
 C++远征之继承篇：https://www.imooc.com/learn/426
+
 C++远征之多态篇：https://www.imooc.com/learn/474
+
 C++远征之模板篇：https://www.imooc.com/learn/477
+
 更多教程，关注我的公众号，微信公众号搜索：jackcui-ai ，即可订阅。
 https://cuijiahua.com/
 
 计算机原理：
 	计算机科学速成课：https://www.bilibili.com/video/av21376839
+	
 	操作系统：https://www.bilibili.com/video/BV1js411b7vg
+	
 数学：
 	MIT老教授Gilbert Strang线性代数：https://www.bilibili.com/video/BV1at411d79w
 编程语言：
 	Python：https://www.bilibili.com/video/BV1Fs411A7HZ
+	
 	C++：https://www.imooc.com/search/?words=C%2B%2B
 	观看顺序是：起航篇、离港篇、封装篇、继承篇、多态篇、模板篇。
+	
 	数据结构：https://www.bilibili.com/video/BV1JW411i731
+	
 	剑指Offer刷题笔记：https://github.com/Jack-Cherish/LeetCode
+	
 算法基础：
 	机器学习：https://www.bilibili.com/video/BV164411b7dx
+	
 	深度学习：https://www.bilibili.com/video/BV1FT4y1E74V
+	
 	JackCui机器学习教程：https://github.com/Jack-Cherish/Machine-Learning
+	
 	Pytorch框架：https://www.bilibili.com/video/BV1Rv411y7oE
+	
 	Tensorflow框架：https://www.bilibili.com/video/BV1kW411W7pZ
+	
 
 微信公众号：jackcui-ai，有更多好玩的技术教程，欢迎关注！
